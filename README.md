@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br><br>I'm [Your Name], a tech enthusiast and developer who loves turning ideas into code.<br><br>⚡ What I do:<br>- Build projects and experiment with new technologies<br>- Learn continuously and improve my coding skills<br>- Contribute to open-source when possible<br><br>📚 Currently learning: [Technology]<br>🚀 Goal: Become a better developer every day
+Hi there 👋<br><br>I'm vinayaka dhage , a tech enthusiast and developer who loves turning ideas into code.<br><br>⚡ What I do:<br>- Build projects and experiment with new technologies<br>- Learn continuously and improve my coding skills<br>- Contribute to open-source when possible<br><br>📚 Currently learning: [Technology]<br>🚀 Goal: Become a better developer every day
 
 
 ## 🌐 Socials:
